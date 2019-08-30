@@ -1,40 +1,23 @@
+body {
+  background-color: tan;
+}
 header {
+  color: lightblue;
   font-size: 34px;
   font-family: monospace;
+
 }
 
-h1{
+h1 {
+  color: lightcoral;
   font-size: 26px;
   font-family: monospace;
   line-height: 1;
 }
- p1{
-   font-size: 20px;
-   font-family: monospace;
- }
 
-h2{
-  font-size: 26px;
+h2 {
+  color: mistyrose;
+  font-size: 20px;
   font-family: monospace;
-  line-height: 0.9;
-}
-
-
-h3{
-  font-size: 26px;
-  font-family: monospace;
-  line-height: 0.8;
-}
-
-h4{
-  font-size: 26px;
-  font-family: monospace;
-  line-height: 0.1;
-}
-
-
-h5{
-  font-size: 26px;
-  font-family: monospace;
-  line-height: 0.1;
+  line-height: 1;
 }
