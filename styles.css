@@ -1,18 +1,20 @@
 body {
-  background-color: #1CC9D5;
+  background-color: #FFB0B0;
 }
+
+img {
+  height: 1
+}
+
 header {
   text-align: center;
-  color: #04ff00;
+  color: white;
   font-size: 100px;
   font-family: monospace;
-
 }
 
-
-
 h1 {
-  color: #FE0000;
+  color: #EDEF60;
   text-align: center;
   font-size: 26px;
   font-family: monospace;
@@ -21,7 +23,7 @@ h1 {
 
 h2 {
   text-align: center;
-  color: #F7FE00;
+  color: #C17BC1;
   font-size: 20px;
   font-family: monospace;
   line-height: 1;
