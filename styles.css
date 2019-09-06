@@ -2,14 +2,20 @@ body {
   background-color: darkblue;
 }
 
+.pic{
+  float: right;
 
-.header {
+}
+
+header {
 
   text-align: center;
   color: white;
   font-size: 110px;
-  font-family: monospace;
+  font-style: italic;
+  font-family: ;
 }
+
 
 .header1{
   border-style: ridge;
